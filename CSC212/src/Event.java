@@ -1,4 +1,5 @@
 
 public class Event {
-String x = 0;
+	int x = 0;
+	String y = "x";
 }
